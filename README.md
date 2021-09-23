@@ -1,1 +1,2 @@
 # gitmanage
+Deklarasi
